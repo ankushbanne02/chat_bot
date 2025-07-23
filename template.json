@@ -1,0 +1,4 @@
+{
+  "input_variables": ["topic"],
+  "template": "Write an article about {topic} in 5 lines."
+}
